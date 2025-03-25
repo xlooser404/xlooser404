@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xlooser404
 - 👀 I’m interested in Web Development using Angular,mongoDB. 
--  Apllication Development using flutter.
 - 🌱 I’m currently learning in Esoft Metro Campus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
