@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xlooser404
-- 👀 I’m interested in Web Development using Angular,mongoDB. 
-- 🌱 I’m currently learning in Esoft Metro Campus
+- 👋 Hi, I’m Shan Romesh
+- 👀 I’m interested in Web Development using react,mongoDB. and mobile app development using flutter
+- 🌱 I’m currently learning in cyber security and digital forencis in kingston university and already completed HND in software engineeering - pearson 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Loozi
